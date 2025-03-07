@@ -10,7 +10,11 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+<<<<<<< HEAD
         android:text="Hello World!"
+=======
+        android:text="Hello World! We are Group 8. Group members: Khadeejah, Zeba, Kirtika and Xi."
+>>>>>>> 0850e55af1d6435f12f864ea231ba6f47f612e26
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"

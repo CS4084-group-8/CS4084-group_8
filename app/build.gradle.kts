@@ -3,11 +3,19 @@ plugins {
 }
 
 android {
+<<<<<<< HEAD
     namespace = "com.example.javaquizapp"
     compileSdk = 35
 
     defaultConfig {
         applicationId = "com.example.javaquizapp"
+=======
+    namespace = "com.example.helloworldgroup8"
+    compileSdk = 35
+
+    defaultConfig {
+        applicationId = "com.example.helloworldgroup8"
+>>>>>>> 0850e55af1d6435f12f864ea231ba6f47f612e26
         minSdk = 24
         targetSdk = 35
         versionCode = 1
